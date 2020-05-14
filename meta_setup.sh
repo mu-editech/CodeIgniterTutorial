@@ -41,3 +41,4 @@ CREATE TABLE news (
 # desc news; これでテーブルのDDLを確認できる。
 exit;
 
+insert into news values(NULL, 'first_article' , 'first_message', 'ThisIsFIrstArticle!');
