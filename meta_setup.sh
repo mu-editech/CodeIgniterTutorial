@@ -11,3 +11,6 @@ cd codeigniter-nginx-with-docker/
 docker-compose up -d
 # 確認にブラウザでlocalhost:8080へアクセスしてみると、CodeIgniterのデフォのWelcomeページが見える。
 
+# chapter1の修正を全部反映したあと、以下のアドレスへブラウザでアクセスすると、HOMEやABOUTページがみれる。
+# localhost:8080/index.php/
+# localhost:8080/index.php/about/
